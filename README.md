@@ -92,7 +92,8 @@
 ## 🐍 Contribution Snake Game
 
 <div align="center">
-  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <!-- FIXED REPO PATH FOR AUTOMATED SNAKE GENERATION -->
+  <img src="https://raw.githubusercontent.com/aryanvaniya231-gif/aryanvaniya231-gif/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
 ---
