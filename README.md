@@ -71,6 +71,20 @@
 
 ---
 
+## 🤖 AI AGENTS & COGNITIVE WORKFLOWS (Advanced Operations)
+
+<div align="center">
+  
+| 🧠 Agent Cluster | ⚙️ Architecture Core | 📡 Deployment Status |
+|:---|:---|:---:|
+| **Autonomous Swarms** | Multi-Agent Coordination Engine, Task Allocation Matrices | `[ ACTIVE // LIVE ]` |
+| **Neural Pipelines** | LLM fine-tuning schemas, Retrieval-Augmented Generation (RAG) | `[ COMPUTING ]` |
+| **Data Automation Controllers** | Real-time telemetry monitoring, Automated Kaggle pipelines | `[ SYNCHRONIZED ]` |
+
+</div>
+
+---
+
 ## 📈 Live System Metrics & Diagnostics
 
 <div align="center">
@@ -92,7 +106,7 @@
 ## 🐍 Contribution Snake Game
 
 <div align="center">
-  <!-- FIXED REPO PATH FOR AUTOMATED SNAKE GENERATION -->
+  <!-- INTERACTIVE MATRIX SNAKE ROUTING -->
   <img src="https://raw.githubusercontent.com/aryanvaniya231-gif/aryanvaniya231-gif/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
@@ -140,11 +154,12 @@
 
 ---
 
-## ⏳ Development Telemetry (Wakatime)
+## ⏳ Development Telemetry & Runtime Analytical Matrix
 
 <div align="center">
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryanvaniya231&theme=tokyonight&hide_border=true&border_radius=10)
+<!-- OPTIMIZED HIGH-PERFORMANCE INTELLIGENCE TELEMETRY GRID -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=450" alt="Telemetry Matrix Data" width="100%" />
 
 </div>
 
