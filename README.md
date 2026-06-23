@@ -53,7 +53,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&width=100)
 
 ### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -103,11 +103,13 @@
 
 ---
 
-## 🐍 Contribution Snake Eater Matrix
+## 🐍 Contribution Snake
 
 <div align="center">
-  <!-- INTERACTIVE LIVE CONTRIB SNAKE GENERATOR ANIMATION -->
-  <img src="https://raw.githubusercontent.com/aryanvaniya231-gif/aryanvaniya231-gif/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <!-- DIRECT STREAMING API FOR SNAKE ANIMATION -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=tokyonight&bg_color=1a1b27&hide_border=true&area=true" alt="Contribution Grid Loading..." width="100%" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/platane/snk@master/output/github-contribution-grid-snake-dark.svg" alt="Snake Interface Matrix" width="100%" />
 </div>
 
 ---
