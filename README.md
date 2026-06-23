@@ -1,88 +1,159 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">Building projects in AI, Machine Learning, Data Analytics and Automation</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Aryan;Building+AI+%26+Machine+Learning+Projects;Exploring+AI+Agents+%26+Automation;Data+Analytics+%26+Kaggle+Competitions;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanvaniya231-gif&label=Profile%20views&color=0e75b6&style=flat" alt="aryanvaniya231-gif" />
+  <img src="https://komarev.com/ghpvc/?username=aryanvaniya231-gif&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aryanvaniya231-gif?style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=flat-square" alt="Star" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🤖 Exploring **AI Agents** & **Machine Learning**
-- 📊 Passionate about **Data Analytics** & **Automation**
-- 🏆 Active in **Kaggle Competitions**
-- 🛠️ Building **automation tools** & **ML projects**
-- 💼 Open to **internships** and **collaborations**
-- 📍 India 🇮🇳
+<img align="right" width="300" src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/raw/main/assets/coding.gif" alt="Coding" />
+
+- 🤖 **AI Engineer** | Exploring cutting-edge AI Agents & LLMs
+- 🧠 **Machine Learning** | Deep Learning, NLP, Computer Vision
+- 📊 **Data Analytics** | Insights from data, automation tools
+- 🏆 **Kaggle Competitor** | Building ML models & winning competitions
+- 🛠️ **Full-Stack Developer** | Python, SQL, Git, GitHub
+- 💡 **Open Source Enthusiast** | Contributing to AI/ML projects
+- 🌍 **Location:** India 🇮🇳
+- 📧 **Email:** [aryanvaniya231@gmail.com](mailto:aryanvaniya231@gmail.com)
+- 💼 **Open to:** Internships, Collaborations & Contract Work
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-```
-Python | SQL | Machine Learning | Data Analytics | Git | GitHub
-```
+<div align="center">
 
-### 🤖 AI & Data Science
-```
-Machine Learning • Deep Learning • Data Analytics • AI Agents
-NumPy • Pandas • Scikit-Learn • PyTorch • TensorFlow
-```
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Tools & Technologies
-```
-Jupyter Notebook • Google Colab • VS Code • GitHub
-```
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 📈 GitHub Stats
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanvaniya231-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvaniya231-gif&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
-</p>
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 📈 GitHub Statistics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-vaniya-357283296" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aryanvaniya231-gif" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/aryanvaniya" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://kaggle.com/aryanvaniya" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
+<div align="center">
+
+### 📊 Overall Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aryanvaniya231-gif&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvaniya231-gif&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+
+### 🔝 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=dark-dimmed&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/raw/main/assets/coding.gif" alt="coding" width="400" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">⭐ If you find my work interesting, don't forget to star my repositories! ⭐</p>
+<div align="center">
+  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| 🔗 Project | 📝 Description | 🌟 Stars |
+|-----------|---------------|---------|
+| [AI-ML-Projects](https://github.com/aryanvaniya231-gif/AI-ML-Projects) | Advanced ML & AI implementations | ⭐⭐⭐ |
+| [Data-Analytics](https://github.com/aryanvaniya231-gif/Data-Analytics) | Real-world data analysis projects | ⭐⭐ |
+| [Automation-Tools](https://github.com/aryanvaniya231-gif/Automation-Tools) | Python automation scripts | ⭐⭐ |
+| [Kaggle-Solutions](https://github.com/aryanvaniya231-gif/Kaggle-Solutions) | Kaggle competition solutions | ⭐⭐⭐ |
+
+</div>
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-vaniya-357283296)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanvaniya231-gif)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanvaniya)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aryanvaniya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanvaniya231@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+- 🥇 **Kaggle Competitor** - Participating in ML competitions
+- 🎓 **Continuous Learner** - Exploring AI, ML & Data Science
+- 💻 **Open Source Contributor** - Contributing to AI/ML projects
+- 🚀 **Project Builder** - Building production-ready AI systems
+
+</div>
+
+---
+
+## 📊 Wakatime Stats
+
+<div align="center">
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryanvaniya231&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 💬 Let's Talk!
+
+<div align="center">
+
+I'm always interested in discussing **AI, Machine Learning, Data Science, and Automation projects**. Feel free to reach out! 
+
+**Let's build something amazing together! 🚀**
+
+⭐ **Don't forget to star my repositories!** ⭐
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:FF8C00&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=fadeIn" />
+</div>
