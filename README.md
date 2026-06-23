@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Aryan;Building+AI+%26+Machine+Learning+Projects;Exploring+AI+Agents+%26+Automation;Data+Analytics+%26+Kaggle+Competitions;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <!-- DYNAMIC ANIMATED HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:330066,100:00ff00&height=220&section=header&text=ARYAN%20VANIYA&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Aryan;Building+AI+%26+Machine+Learning+Projects;Exploring+AI+Agents+%26+Automation;Data+Analytics+%26+Kaggle+Competitions;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanvaniya231-gif&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aryanvaniya231-gif?style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aryanvaniya231-gif&label=SYSTEM+TRAFFIC&color=00FF00&style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aryanvaniya231-gif?style=flat-square&logo=github&color=330066" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=flat-square" alt="Star" />
 </p>
 
@@ -12,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/raw/main/assets/coding.gif" alt="Coding" />
+<img align="right" width="320" src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/raw/main/assets/coding.gif" alt="Coding" />
 
 - 🤖 **AI Engineer** | Exploring cutting-edge AI Agents & LLMs
 - 🧠 **Machine Learning** | Deep Learning, NLP, Computer Vision
@@ -26,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -64,48 +71,48 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Live System Metrics & Diagnostics
 
 <div align="center">
 
-### 📊 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=aryanvaniya231-gif&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvaniya231-gif&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+### 📊 System Diagnostics
+<img src="https://github-readme-stats.vercel.app/api?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvaniya231-gif&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
 
-### 🔝 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+### 🔝 Core Technology Stack Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" width="100%" />
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=dark-dimmed&hide_border=true&area=true" alt="Contribution Graph" />
+### 📊 Real-time Contribution Pulse
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Game
 
 <div align="center">
-  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github.com/aryanvaniya231-gif/aryanvaniya231-gif/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Systems & Projects
 
 <div align="center">
 
-| 🔗 Project | 📝 Description | 🌟 Stars |
-|-----------|---------------|---------|
-| [AI-ML-Projects](https://github.com/aryanvaniya231-gif/AI-ML-Projects) | Advanced ML & AI implementations | ⭐⭐⭐ |
-| [Data-Analytics](https://github.com/aryanvaniya231-gif/Data-Analytics) | Real-world data analysis projects | ⭐⭐ |
-| [Automation-Tools](https://github.com/aryanvaniya231-gif/Automation-Tools) | Python automation scripts | ⭐⭐ |
-| [Kaggle-Solutions](https://github.com/aryanvaniya231-gif/Kaggle-Solutions) | Kaggle competition solutions | ⭐⭐⭐ |
+| 🔗 Project Name | 📝 Production Description | 🌟 Repository Stars |
+|:---|:---|:---:|
+| 🚀 **[AI-ML-Projects](https://github.com/aryanvaniya231-gif/AI-ML-Projects)** | Advanced ML & AI implementations, Neural Architectures | ⭐⭐⭐ |
+| 📊 **[Data-Analytics](https://github.com/aryanvaniya231-gif/Data-Analytics)** | Real-world data analysis pipelines & insights dashboards | ⭐⭐ |
+| ⚙️ **[Automation-Tools](https://github.com/aryanvaniya231-gif/Automation-Tools)** | Core Python automation frameworks and script suites | ⭐⭐ |
+| 🏆 **[Kaggle-Solutions](https://github.com/aryanvaniya231-gif/Kaggle-Solutions)** | Predictive modeling matrices and competition algorithms | ⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 📱 Connect With Me
+## 📱 Global Connectivity Network
 
 <div align="center">
 
@@ -119,41 +126,44 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Milestones & Core Capabilities
 
 <div align="center">
 
-- 🥇 **Kaggle Competitor** - Participating in ML competitions
-- 🎓 **Continuous Learner** - Exploring AI, ML & Data Science
-- 💻 **Open Source Contributor** - Contributing to AI/ML projects
-- 🚀 **Project Builder** - Building production-ready AI systems
+- 🥇 **Kaggle Competitor** - Deploying optimized architectures in global ML spaces.
+- 🎓 **Continuous System Optimization** - Building state-of-the-art AI, ML, & Deep Learning solutions.
+- 💻 **Open Source Architecture** - Integrating features and optimizations in collaborative repos.
+- 🚀 **Full-Scale Project Execution** - Structuring production-ready pipelines and data modules.
 
 </div>
 
 ---
 
-## 📊 Wakatime Stats
+## ⏳ Development Telemetry (Wakatime)
 
 <div align="center">
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryanvaniya231&theme=dark&hide_border=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryanvaniya231&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
 ---
 
-## 💬 Let's Talk!
+## 💬 Let's Build the Future
 
 <div align="center">
 
-I'm always interested in discussing **AI, Machine Learning, Data Science, and Automation projects**. Feel free to reach out! 
+Open for deep-dive technical discussions regarding **AI Agents, Deep Learning Models, Large-Scale Automation Frameworks, and Quantitative Data Analytics**.
 
-**Let's build something amazing together! 🚀**
+**Let's build something massive together! 🚀**
 
 ⭐ **Don't forget to star my repositories!** ⭐
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:FF8C00&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <!-- DYNAMIC ANIMATED FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=50:330066,100:00ffcc&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling" width="100%" />
 </div>
