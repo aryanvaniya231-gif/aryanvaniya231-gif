@@ -53,7 +53,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&width=100)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -99,17 +99,6 @@
 ### 📊 Real-time Contribution Pulse
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <!-- DIRECT STREAMING API FOR SNAKE ANIMATION -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvaniya231-gif&theme=tokyonight&bg_color=1a1b27&hide_border=true&area=true" alt="Contribution Grid Loading..." width="100%" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/platane/snk@master/output/github-contribution-grid-snake-dark.svg" alt="Snake Interface Matrix" width="100%" />
 </div>
 
 ---
