@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- DYNAMIC ANIMATED HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:330066,100:00ff00&height=220&section=header&text=ARYAN%20VANIYA&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
 
@@ -102,6 +103,15 @@
 
 ---
 
+## 🐍 Contribution Snake Eater Matrix
+
+<div align="center">
+  <!-- INTERACTIVE LIVE CONTRIB SNAKE GENERATOR ANIMATION -->
+  <img src="https://raw.githubusercontent.com/aryanvaniya231-gif/aryanvaniya231-gif/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+---
+
 ## 🎯 Featured Systems & Projects
 
 <div align="center">
@@ -148,6 +158,7 @@
 
 <div align="center">
 
+<!-- OPTIMIZED HIGH-PERFORMANCE INTELLIGENCE TELEMETRY GRID -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvaniya231-gif&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=450" alt="Telemetry Matrix Data" width="100%" />
 
 </div>
@@ -169,5 +180,6 @@ Open for deep-dive technical discussions regarding **AI Agents, Deep Learning Mo
 <br>
 
 <div align="center">
+  <!-- DYNAMIC ANIMATED FOOTER WAVE BANNER (THANK YOU) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:330066,50:00ffcc,100:00ff00&height=220&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
