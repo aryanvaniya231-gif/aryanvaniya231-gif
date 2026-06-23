@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM%20TRAFFIC-1000%2B-00FF00?style=flat-square&logo=github" alt="System Traffic" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-2000-330066?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/SYSTEM%20TRAFFIC-1%2C412%2B-00FF00?style=flat-square&logo=github" alt="System Traffic" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-2%2C687-330066?style=flat-square&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=flat-square" alt="Star" />
 </p>
 
