@@ -65,7 +65,7 @@ Jupyter Notebook • Google Colab • VS Code • GitHub
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aryan-vaniya" target="blank">
+  <a href="https://www.linkedin.com/in/aryan-vaniya-357283296" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/aryanvaniya231-gif" target="blank">
